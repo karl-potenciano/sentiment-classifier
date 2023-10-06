@@ -1,0 +1,97 @@
+{
+	"info": {
+		"_postman_id": "5cca414d-c1f7-4e71-8139-4b6d13552632",
+		"name": "Sentiment Prediction API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "678229"
+	},
+	"item": [
+		{
+			"name": "Individual Prediction",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Accept",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "input_string",
+							"value": "Test",
+							"type": "text",
+							"disabled": true
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/predict_sentiment/individual?input_string=I hate the effing dentist",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"predict_sentiment",
+						"individual"
+					],
+					"query": [
+						{
+							"key": "input_string",
+							"value": "I hate the effing dentist"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "DataFrame Prediction",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "input_file",
+							"type": "file",
+							"src": "/Users/karlpotenciano/Exams/sail-sentiment-classifier/artifacts/data/test_dataset/sentiment_test_cases.csv"
+						},
+						{
+							"key": "compute_metrics",
+							"value": "True",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/predict_sentiment/dataframe",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"predict_sentiment",
+						"dataframe"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

@@ -1,0 +1,499 @@
+,expected_sentiment,text,model_output,confidence
+0,positive,"@stellargirl I loooooooovvvvvveee my Kindle2. Not that the DX is cool, but the 2 is fantastic in its own right.",positive,98.4
+1,positive,Reading my kindle2...  Love it... Lee childs is good read.,positive,98.73
+2,positive,"Ok, first assesment of the #kindle2 ...it fucking rocks!!!",positive,94.85
+3,positive,@kenburbary You'll love your Kindle2. I've had mine for a few months and never looked back. The new big one is huge! No need for remorse! :),positive,98.35
+4,positive,@mikefish  Fair enough. But i have the Kindle2 and I think it's perfect  :),positive,97.09
+5,positive,@richardebaker no. it is too big. I'm quite happy with the Kindle2.,positive,82.42
+6,negative,Fuck this economy. I hate aig and their non loan given asses.,negative,95.57
+7,positive,Jquery is my new best friend.,positive,94.89
+8,positive,Loves twitter,positive,94.11
+9,positive,how can you not love Obama? he makes jokes about himself.,positive,53.31
+10,neutral,Check this video out -- President Obama at the White House Correspondents' Dinner http://bit.ly/IMXUM,neutral,79.38
+11,negative,"@Karoli I firmly believe that Obama/Pelosi have ZERO desire to be civil.  It's a charade and a slogan, but they want to destroy conservatism",negative,91.41
+12,positive,"House Correspondents dinner was last night whoopi, barbara &amp; sherri went, Obama got a standing ovation",neutral,70.0
+13,positive,Watchin Espn..Jus seen this new Nike Commerical with a Puppet Lebron..sh*t was hilarious...LMAO!!!,positive,71.89
+14,negative,"dear nike, stop with the flywire. that shit is a waste of science. and ugly. love, @vincentx24x",negative,91.43
+15,positive,"#lebron best athlete of our generation, if not all time (basketball related) I don't want to get into inter-sport debates about   __1/2",neutral,50.57
+16,negative,I was talking to this guy last night and he was telling me that he is a die hard Spurs fan.  He also told me that he hates LeBron James.,negative,53.79
+17,positive,i love lebron. http://bit.ly/PdHur,positive,96.98
+18,negative,"@ludajuice Lebron is a Beast, but I'm still cheering 4 the A..til the end.",positive,93.51
+19,positive,@Pmillzz lebron IS THE BOSS,positive,81.6
+20,positive,"@sketchbug Lebron is a hometown hero to me, lol I love the Lakers but let's go Cavs, lol",positive,96.85
+21,positive,lebron and zydrunas are such an awesome duo,positive,96.65
+22,positive,@wordwhizkid Lebron is a beast... nobody in the NBA comes even close.,positive,92.07
+23,positive,downloading apps for my iphone! So much fun :-) There literally is an app for just about anything.,positive,98.49
+24,positive,"good news, just had a call from the Visa office, saying everything is fine.....what a relief! I am sick of scams out there! Stealing!",positive,64.26
+25,positive,http://twurl.nl/epkr4b - awesome come back from @biz (via @fredwilson),positive,98.02
+26,positive,In montreal for a long weekend of R&amp;R. Much needed.,positive,94.21
+27,positive,Booz Allen Hamilton has a bad ass homegrown social collaboration platform. Way cool!  #ttiv,positive,97.1
+28,positive,[#MLUC09] Customer Innovation Award Winner: Booz Allen Hamilton -- http://ping.fm/c2hPP,positive,74.24
+29,positive,"@SoChi2 I current use the Nikon D90 and love it, but not as much as the Canon 40D/50D. I chose the D90 for the  video feature. My mistake.",neutral,43.79
+30,neutral,need suggestions for a good IR filter for my canon 40D ... got some? pls DM,neutral,73.67
+31,neutral,@surfit: I just checked my google for my business- blip shows up as the second entry! Huh. Is that a good or ba... ? http://blip.fm/~6emhv,neutral,61.65
+32,positive,"@phyreman9 Google is always a good place to look. Should've mentioned I worked on the Mustang w/ my Dad, @KimbleT.",positive,65.83
+33,negative,Played with an android google phone. The slide out screen scares me I would break that fucker so fast. Still prefer my iPhone.,negative,85.67
+34,negative,US planning to resume the military tribunals at Guantanamo Bay... only this time those on trial will be AIG execs and Chrysler debt holders,neutral,74.28
+35,negative,omg so bored &amp; my tattoooos are so itchy!!  help! aha =),negative,85.9
+36,negative,I'm itchy and miserable!,negative,90.77
+37,negative,"@sekseemess no. I'm not itchy for now. Maybe later, lol.",neutral,50.45
+38,positive,RT @jessverr I love the nerdy Stanford human biology videos - makes me miss school. http://bit.ly/13t7NR,positive,95.07
+39,positive,"@spinuzzi: Has been a bit crazy, with steep learning curve, but LyX is really good for long docs. For anything shorter, it would be insane.",positive,86.43
+40,positive,"I'm listening to ""P.Y.T"" by Danny Gokey &lt;3 &lt;3 &lt;3 Aww, he's so amazing. I &lt;3 him so much :)",positive,99.01
+41,positive,is going to sleep then on a bike ride:],neutral,81.33
+42,negative,cant sleep... my tooth is aching.,negative,91.28
+43,negative,"Blah, blah, blah same old same old. No plans today, going back to sleep I guess.",negative,82.4
+44,negative,"glad i didnt do Bay to Breakers today, it's 1000 freaking degrees in San Francisco wtf",negative,85.69
+45,neutral,is in San Francisco at Bay to Breakers.,neutral,94.39
+46,neutral,just landed at San Francisco,neutral,77.2
+47,neutral,San Francisco today.  Any suggestions?,neutral,93.85
+48,negative,?Obama Administration Must Stop Bonuses to AIG Ponzi Schemers ... http://bit.ly/2CUIg,neutral,51.76
+49,negative,started to think that Citi is in really deep s&amp;^t. Are they gonna survive the turmoil or are they gonna be the next AIG?,negative,87.84
+50,negative,ShaunWoo hate'n on AiG,negative,74.02
+51,positive,@YarnThing you will not regret going to see Star Trek. It was AWESOME!,positive,98.87
+52,neutral,On my way to see Star Trek @ The Esquire.,positive,62.52
+53,neutral,Going to see star trek soon with my dad.,positive,77.54
+54,negative,annoying new trend on the internets:  people picking apart michael lewis and malcolm gladwell.  nobody wants to read that.,negative,92.73
+55,neutral,Bill Simmons in conversation with Malcolm Gladwell http://bit.ly/j9o50,neutral,92.37
+56,positive,Highly recommend: http://tinyurl.com/HowDavidBeatsGoliath by Malcolm Gladwell,positive,91.55
+57,positive,Blink by malcolm gladwell amazing book and The tipping point!,positive,97.51
+58,positive,Malcolm Gladwell might be my new man crush,positive,66.05
+59,negative,omg. The commercials alone on ESPN are going to drive me nuts.,negative,82.76
+60,positive,@robmalon Playing with Twitter API sounds fun.  May need to take a class or find a new friend who like to generate results with API code.,positive,84.01
+61,neutral,playing with cURL and the Twitter API,neutral,93.81
+62,positive,Hello Twitter API ;),positive,92.04
+63,neutral,playing with Java and the Twitter API,neutral,90.24
+64,negative,@morind45 Because the twitter api is slow and most client's aren't good.,negative,89.83
+65,negative,yahoo answers can be a butt sometimes,negative,77.63
+66,positive,is scrapbooking with Nic =D,positive,67.99
+67,positive,RT @mashable: Five Things Wolfram Alpha Does Better (And Vastly Different) Than Google - http://bit.ly/6nSnR,positive,69.02
+68,positive,just changed my default pic to a Nike basketball cause bball is awesome!!!!!,positive,97.56
+69,neutral,"Nike owns NBA Playoffs ads w/ LeBron, Kobe, Carmelo? http://ow.ly/7Uiy  #Adidas #Billups #Howard  #Marketing #Branding",neutral,94.08
+70,neutral,"'Next time, I'll call myself Nike'",neutral,74.97
+71,neutral,New blog post: Nike SB Dunk Low Premium 'White Gum' http://tr.im/lOtT,neutral,85.88
+72,negative,RT @SmartChickPDX: Was just told that Nike layoffs started today :-(,negative,89.15
+73,positive,Back when I worked for Nike we had one fav word : JUST DO IT! :),positive,93.44
+74,positive,"By the way, I'm totally inspired by this freaky Nike commercial: http://snurl.com/icgj9",positive,90.22
+75,neutral,"giving weka an app engine interface, using the bird strike data for the tests, the logo is a given.",neutral,89.13
+76,neutral,"Brand New Canon EOS 50D 15MP DSLR Camera Canon 17-85mm IS Lens ...: Web Technology Thread, Brand New Canon EOS 5.. http://u.mavrev.com/5a3t",neutral,73.4
+77,positive,Class... The 50d is supposed to come today :),positive,88.73
+78,negative,needs someone to explain lambda calculus to him! :(,negative,82.85
+79,negative,Took the Graduate Field Exam for Computer Science today.  Nothing makes you feel like more of an idiot than lambda calculus.,negative,83.29
+80,positive,SHOUT OUTS TO ALL EAST PALO ALTO FOR BEING IN THE BUILDIN KARIZMAKAZE 50CAL GTA! ALSO THANKS TO PROFITS OF DOOM UNIVERSAL HEMPZ CRACKA......,positive,92.82
+81,negative,"@legalgeekery Yeahhhhhhhhh, I wouldn't really have lived in East Palo Alto if I could have avoided it.  I guess it's only for the summer.",negative,67.59
+82,positive,@accannis @edog1203 Great Stanford course. Thanks for making it available to the public! Really helpful and informative for starting off!,positive,98.72
+83,neutral,"NVIDIA Names Stanford's Bill Dally Chief Scientist, VP Of Research http://bit.ly/Fvvg9",neutral,88.73
+84,neutral,New blog post: Harvard Versus Stanford - Who Wins? http://bit.ly/MCoCo,neutral,88.6
+85,positive,@ work til 6pm... lets go lakers!!!,positive,86.47
+86,negative,Damn you North Korea. http://bit.ly/KtMeQ,negative,92.98
+87,negative,Can we just go ahead and blow North Korea off the map already?,negative,63.56
+88,negative,"North Korea, please cease this douchebaggery. China doesn't even like you anymore. http://bit.ly/NeHSl",negative,92.29
+89,negative,Why the hell is Pelosi in freakin China? and on whose dime?,negative,91.7
+90,negative,"Are YOU burning more cash $$$ than Chrysler and GM? Stop the financial tsunami. Where ""bailout"" means taking a handout!",negative,87.07
+91,negative,insects have infected my spinach plant :(,negative,93.22
+92,negative,wish i could catch every mosquito in the world n burn em slowly.they been bitin the shit outta me 2day.mosquitos are the assholes of insects,negative,93.66
+93,negative,"just got back from church, and I totally hate insects.",negative,93.59
+94,negative,Just got mcdonalds goddam those eggs make me sick. O yeah Laker up date go lakers. Not much of an update? Well it's true so suck it,negative,93.69
+95,positive,omgg i ohhdee want mcdonalds damn i wonder if its open lol =],positive,91.49
+96,negative,History exam studying ugh,neutral,49.78
+97,negative,"I hate revision, it's so boring! I am totally unprepared for my exam tomorrow :( Things are not looking good...",negative,95.55
+98,negative,"Higher physics exam tommorow, not lookin forward to it much :(",negative,92.54
+99,negative,"It's a bank holiday, yet I'm only out of work now. Exam season sucks:(",negative,91.19
+100,negative,Cheney and Bush are the real culprits - http://fwix.com/article/939496,negative,84.35
+101,negative,Life?s a bitch? and so is Dick Cheney. #p2 #bipart #tlot #tcot #hhrs #GOP #DNC http://is.gd/DjyQ,negative,90.44
+102,negative,"Dick Cheney's dishonest speech about torture, terror, and Obama. -Fred Kaplan Slate. http://is.gd/DiHg",negative,76.46
+103,negative,"""The Republican party is a bunch of anti-abortion zealots who couldn't draw flies to a dump."" -- Neal Boortz (just now, on the radio)",negative,77.86
+104,negative,is Twitter's connections API broken? Some tweets didn't make it to Twitter...,negative,77.71
+105,negative,"i srsly hate the stupid twitter API timeout thing, soooo annoying!!!!! :(",negative,95.89
+106,positive,"@psychemedia I really liked @kswedberg's ""Learning jQuery"" book. http://bit.ly/pg0lT is worth a look too",positive,98.12
+107,neutral,jQuery UI 1.6 Book Review - http://cfbloggers.org/?c=30631,neutral,91.03
+108,positive,"Very Interesting Ad from Adobe by Goodby, Silverstein &amp; Partners - YouTube - Adobe CS4: Le Sens Propre http://bit.ly/VprpT",positive,94.89
+109,positive,Goodby Silverstein agency new site! http://www.goodbysilverstein.com/ Great!,positive,98.29
+110,positive,"RT @designplay Goodby, Silverstein's new site: http://www.goodbysilverstein.com/ I enjoy it. *nice find!*",positive,98.66
+111,positive,The ever amazing Psyop and Goodby Silverstein &amp; Partners for HP! http://bit.ly/g2rU8 Have to go play with After Effects now!,positive,97.9
+112,positive,top ten most watched on Viral-Video Chart.  Love the nike #mostvaluablepuppets campaign from Wieden &amp; Kennedy http://bit.ly/nR1n9,positive,96.45
+113,positive,zomg!!! I have a G2!!!!!!!,positive,91.21
+114,positive,Ok so lots of buzz from IO2009 but how lucky are they - a Free G2!! http://is.gd/Hyzl,positive,94.74
+115,positive,just got a free G2 android at google i/o!!!,positive,91.16
+116,positive,Guess I'll be retiring my G1 and start using my developer G2 woot #googleio,positive,61.57
+117,neutral,At GWT fireside chat @googleio,neutral,91.02
+118,positive,I am happy for Philip being at GoogleIO today,positive,98.3
+119,positive,Lakers played great!  Cannot wait for Thursday night Lakers vs. ???,positive,99.06
+120,neutral,"Hi there, does anyone have a great source for advice on viral marketing?... http://link.gs/YtZ8",neutral,53.75
+121,positive,Judd Apatow creates fake sitcom on NBC.com to market his new movie... viral marketing at its best. http://is.gd/K0yK,negative,58.95
+122,neutral,"Here's A case study on how to use viral marketing to add over 10,000 people to your list http://snipr.com/i50oz",neutral,62.19
+123,negative,VIRAL MARKETING FAIL. This Acia Pills brand oughta get shut down for hacking into people's messenger's.  i get 5-6 msgs in a day! Arrrgh!,negative,95.18
+124,positive,watching Night at The Museum . Lmao,neutral,68.48
+125,positive,i loved night at the museum!!!,positive,98.8
+126,neutral,going to see the new night at the museum  movie with my family oh boy a three year old in the movies fuin,positive,49.54
+127,positive,just got back from the movies.  went to see the new night at the museum with rachel.  it was good,positive,97.81
+128,neutral,Just saw the new Night at the Museum movie...it was...okay...lol 7\10,positive,94.6
+129,neutral,Going to see night at the museum 2 with tall boy,neutral,57.4
+130,positive,@shannyoday I will take you on a date to see night at the museum 2 whenever you want...it looks soooooo good,positive,97.89
+131,positive,no watching The Night At The Museum. Getting Really Good,positive,87.33
+132,positive,"Night at the Museum, Wolverine and junk food - perfect monday!",positive,97.2
+133,positive,saw night at the museum 2 last night.. pretty crazy movie.. but the cast was awesome so it was well worth it. Robin Williams forever!,positive,98.17
+134,neutral,I saw Night at the Museum: Battle of the Swithsonian today. It was okay. Your typical [kids] Ben Stiller movie.,positive,89.73
+135,neutral,Taking Katie to see Night at the Museum.  (she picked it),neutral,58.38
+136,negative,Night at the Museum tonite instead of UP. :( oh well. that 4 yr old better enjoy it. LOL,negative,36.57
+137,neutral,GM says expects announcment on sale of Hummer soon - Reuters: WDSUGM says expects announcment on sale of Hummer .. http://bit.ly/4E1Fv,neutral,88.0
+138,negative,It's unfortunate that after the Stimulus plan was put in place twice to help GM on the back of the American people has led to the inevitable,negative,89.02
+139,negative,Tell me again why we are giving more $$ to GM?? We should use that $ for all the programs that support the unemployed.,negative,66.57
+140,negative,@jdreiss oh yes but if GM dies it will only be worth more boo hahaha,neutral,42.64
+141,negative,Time Warner cable is down again 3rd time since Memorial Day bummer!,negative,92.65
+142,negative,"I would rather pay reasonable yearly taxes for ""free"" fast internet, than get gouged by Time Warner for a slow connection.",negative,66.31
+143,negative,NOOOOOOO my DVR just died and I was only half way through the EA presser. Hate you Time Warner,negative,94.74
+144,negative,F*ck Time Warner Cable!!! You f*cking suck balls!!! I have a $700 HD tv &amp; my damn HD channels hardly ever come in. Bullshit!!,negative,96.04
+145,negative,time warner has the worse customer service ever. I will never use them again,negative,95.35
+146,negative,Time warner is the devil. Worst possible time for the Internet to go out.,negative,94.94
+147,negative,Fuck no internet damn time warner!,negative,94.49
+148,negative,time warner really picks the worst time to not work. all i want to do is get to mtv.com so i can watch the hills. wtfffff.,negative,86.76
+149,negative,I hate Time Warner! Soooo wish I had Vios. Cant watch the fricken Mets game w/o buffering. I feel like im watching free internet porn.,negative,93.85
+150,negative,Ahh...got rid of stupid time warner today &amp; now taking a nap while the roomies cook for me. Pretty good end for a monday :),positive,95.78
+151,negative,Time Warner's HD line up is crap.,negative,92.79
+152,negative,is being fucked by time warner cable. didnt know modems could explode. and Susan Boyle sucks too!,negative,96.28
+153,neutral,Time Warner Cable Pulls the Plug on 'The Girlfriend Experience' - (www.tinyurl.com/m595fk),neutral,92.9
+154,negative,Time Warner Cable slogan: Where calling it a day at 2pm Happens.,neutral,87.9
+155,neutral,"Rocawear Heads to China, Building 300 Stores  - http://tinyurl.com/nofet3",neutral,93.63
+156,neutral,"Climate focus turns to Beijing: The United Nations, the US and European governments have called on China to co-o.. http://tinyurl.com/lto92n",neutral,89.1
+157,neutral,myfoxdc Barrie Students Back from Trip to China: A Silver Spring high school's class trip to China has en.. http://tinyurl.com/nlhqba,neutral,94.57
+158,neutral,"Three China aerospace giants develop Tianjin Binhai  New Area,  22.9 B yuan invested   http://bit.ly/mMiDv",neutral,84.8
+159,neutral,http://xi.gs/04FO GM CEO: China will continue to be key partner,neutral,72.82
+160,neutral,RT @LATimesautos is now the time to buy a GM car? http://bit.ly/nRzlu,neutral,92.34
+161,negative,Recovering from surgery..wishing @julesrenner was here :(,neutral,40.37
+162,positive,"My wrist still hurts. I have to get it looked at. I HATE the dr/dentist/scary places. :( Time to watch Eagle eye. If you want to join, txt!",negative,90.58
+163,neutral,Dentist tomorrow. Have to brush well in the morning. Like I make my hair all nice before I get it cut. Why?,neutral,48.32
+164,negative,"THE DENTIST LIED! "" U WON'T FEEL ANY DISCOMORT! PROB WON'T EVEN NEED PAIN PILLS"" MAN U TWIPPIN THIS SHIT HURT!! HOW MANY PILLS CAN I TAKE!!",negative,93.77
+165,negative,@kirstiealley my dentist is great but she's expensive...=(,negative,86.26
+166,neutral,@kirstiealley Pet Dentist http://www.funnyville.com/fv/pictures/dogdentures.shtml,neutral,80.51
+167,positive,is studing math ;) tomorrow exam and dentist :),positive,83.62
+168,negative,my dentist was wrong... WRONG,negative,91.42
+169,negative,Going to the dentist later.:|,negative,73.88
+170,negative,Son has me looking at cars online.  I hate car shopping.  Would rather go to the dentist!  Anyone with a good car at a good price to sell?,negative,79.31
+171,neutral,NCAA Baseball Super Regional - Rams Club http://bit.ly/Ro7nx,neutral,92.78
+172,neutral,just started playing Major League Baseball 2K9. http://raptr.com/H3LLGWAR,neutral,89.04
+173,neutral,Cardinals baseball advance to Super Regionals. Face CS-Fullerton Friday.,neutral,80.89
+174,neutral,Sony coupon code.. Expires soon.. http://www.coupondork.com/r/1796,neutral,49.71
+175,neutral,waiting in line at safeway.,neutral,89.69
+176,negative,luke and i got stopped walking out of safeway and asked to empty our pockets and lift our shirts. how jacked up is that?,negative,74.47
+177,neutral,Did not realize there is a gym above Safeway!,neutral,67.06
+178,neutral,"@XPhile1908 I have three words for you: ""Safeway dot com""",neutral,76.46
+179,positive,Safeway is very rock n roll tonight,neutral,57.96
+180,neutral,Bout to hit safeway I gotta eat,neutral,71.92
+181,neutral,Jake's going to safeway!,neutral,61.73
+182,neutral,Found a safeway. Picking up a few staples.,neutral,53.64
+183,neutral,Safeway Super-marketing via mobile coupons http://bit.ly/ONH7w,neutral,82.84
+184,negative,The safeway bathroom still smells like ass!,negative,92.92
+185,negative,"At safeway on elkhorn, they move like they're dead!",negative,80.58
+186,neutral,Your Normal Weight (and How to Get There) ? Normal Eating Blog http://bit.ly/ZeT8O,neutral,87.51
+187,neutral,Is Eating and Watching Movies....,neutral,88.08
+188,neutral,eating sashimi,neutral,71.52
+189,neutral,is eating  home made yema,neutral,82.15
+190,neutral,eating cake,positive,49.04
+191,positive,i love Dwight Howard's vitamin water commercial... now i wish he was with NIKE and not adidas. lol.,positive,93.0
+192,negative,Found NOTHING at Nike Factory :/ Off to Banana Republic Outlet! http://myloc.me/2zic,negative,84.21
+193,neutral,iPhone May Get Radio Tagging and Nike  : Recently-released iTunes version 8.2 suggests that VoiceOver functional.. http://tinyurl.com/oq5ctc,neutral,70.04
+194,positive,is lovin his Nike  already and that's only from running on the spot in his bedroom,positive,92.79
+195,neutral,Launched! http://imgsearch.net  #imgsearch #ajax #jquery #webapp,positive,56.4
+196,positive,@matthewcyan I finally got around to using jquery to make my bio collapse. Yay for slide animations.,positive,84.36
+197,neutral,RT @jquery: The Ultimate jQuery List - http://jquerylist.com/,neutral,70.88
+198,neutral,I just extracted and open-sourced a jQuery plugin from Stormweight to highlight text with a regular expression: http://bit.ly/ybJKb,neutral,71.8
+199,neutral,@anna_debenham what was the php jquery hack?,neutral,63.85
+200,neutral,jQuery Cheat Sheet http://www.javascripttoolbox.com/jquery/cheatsheet/,neutral,81.21
+201,neutral,Beginning JavaScript and CSS Development with jQuery #javascript #css #jquery http://bit.ly/TO3e5,neutral,76.58
+202,positive,"@PDubyaD right!!! LOL we'll get there!! I have high expectations, Warren Buffet style.",positive,94.92
+203,positive,"RT @blknprecious1: RT GREAT @dbroos ""Someone's sitting in the shade today because someone planted a tree a long time ago.""- Warren Buffet",neutral,77.8
+204,neutral,Warren Buffet on the economy http://ping.fm/Lau0p,neutral,68.26
+205,positive,"Warren Buffet became (for a time) the richest man in the United States, not by working but investing in 1 Big idea which lead to the fortune",positive,72.89
+206,positive,"According to the create a school, Notre Dame will have 7 receivers in NCAA 10 at 84 or higher rating :) *sweet*",positive,90.15
+207,neutral,All-Star Basketball Classic Tuesday Features Top Talent: Chattanooga's Notre Dame High School will play host.. http://bit.ly/qltJA,neutral,69.48
+208,positive,@BlondeBroad it's definitely under warranty &amp; my experience is the amazon support for kindle is great! had to contact them about my kindle2,positive,96.54
+209,neutral,"RT Look, Available !Amazon Kindle2 &amp; Kindle DX, Get it Here: http://short.to/87ub The Top Electronic Book Reader Period, free 2 day ship ...",positive,62.47
+210,negative,Time Warner Road Runner customer support here absolutely blows. I hate not having other high-speed net options. I'm ready to go nuclear.,negative,95.51
+211,negative,Time Warner cable phone reps r dumber than nails!!!!! UGH! Cable was working 10 mins ago now its not WTF!,negative,95.4
+212,negative,@siratomofbones we tried but Time Warner wasn't being nice so we recorded today. :),positive,49.74
+213,negative,OMG - time warner f'ed up my internet install - instead of today  its now NEXT saturday - another week w/o internet! &amp;$*ehfa^V9fhg[*# fml.,negative,95.07
+214,negative,"wth..i have never seen a line this loooong at time warner before, ugh.",negative,81.36
+215,negative,Impatiently awaiting the arrival of the time warner guy. It's way too pretty to be inside all afternoon,positive,94.89
+216,neutral,Man accosts Roger Federer during French Open http://ff.im/3HCPT,neutral,93.39
+217,negative,Naive Bayes using EM for Text Classification. Really Frustrating...,negative,88.26
+218,positive,We went to Stanford University today. Got a tour. Made me want to go back to college. It's also decided all of our kids will go there.,positive,88.81
+219,neutral,Investigation pending on death of Stanford CS prof / Google mentor Rajeev Motwani http://bit.ly/LwOUR tip @techmeme,neutral,79.69
+220,neutral,"I'm going to bed. It was a successful weekend. Stanford, here I come.",positive,96.34
+221,negative,"@KarrisFoxy If you're being harassed by calls about your car warranty, changing your number won't fix that. They call every number. #d-bags",negative,88.09
+222,negative,Just blocked United Blood Services using Google Voice. They call more than those Car Warranty guys.,negative,87.07
+223,negative,#at&amp;t is complete fail.,negative,93.51
+224,negative,@broskiii OH SNAP YOU WORK AT AT&amp;T DON'T YOU,neutral,82.2
+225,negative,@Mbjthegreat i really dont want AT&amp;T phone service..they suck when it comes to having a signal,negative,94.61
+226,negative,"I say we just cut out the small talk: AT&amp;T's new slogan: F__k you, give us your money. (Apologies to Bob Geldof.)",negative,77.73
+227,negative,pissed about at&amp;t's mid-contract upgrade price for the iPhone (it's $200 more) I'm not going to pay $499 for something I thought was $299,negative,93.25
+228,negative,Safari 4 is fast :) Even on my shitty AT&amp;T tethering.,positive,84.54
+229,negative,@ims What is AT&amp;T fucking up?,negative,94.71
+230,negative,@springsingfiend @dvyers @sethdaggett @jlshack AT&amp;T dropped the ball and isn't supporting crap with the new iPhone 3.0... FAIL #att SUCKS!!!,negative,95.79
+231,negative,"@MMBarnhill yay, glad you got the phone! Still, damn you, AT&amp;T.",positive,69.87
+232,neutral,Google Wave Developer Sandbox Account Request http://bit.ly/2NYlc,neutral,88.79
+233,negative,"Talk is Cheap: Bing that, I?ll stick with Google. http://bit.ly/XC3C8",neutral,55.24
+234,negative,"@defsounds WTF is the point of deleting tweets if they can still be found in summize and searches? Twitter, please fix that. Thanks and bye",negative,85.7
+235,neutral,@mattcutts have google profiles stopped showing up in searches? cant see them anymore,negative,62.38
+236,positive,@ArunBasilLal I love Google Translator too ! :D Good day mate !,positive,98.91
+237,positive,reading on my new Kindle2!,positive,76.1
+238,positive,My Kindle2 came and I LOVE it! :),positive,98.96
+239,positive,"LOVING my new Kindle2.  Named her Kendra in case u were wondering. The ""cookbook"" is THE tool cuz it tells u all the tricks!  Best gift EVR!",positive,98.63
+240,negative,The real AIG scandal / http://bit.ly/b82Px,neutral,73.26
+241,neutral,Any twitter to aprs apps yet?,neutral,88.79
+242,neutral,45 Pros You Should Be Following on Twitter - http://is.gd/sMbZ,neutral,57.92
+243,positive,Obama is quite a good comedian! check out his dinner speech on CNN :) very funny jokes.,positive,98.3
+244,positive,"' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !! Great speech..",positive,98.34
+245,positive,"I like this guy : ' Barack Obama shows his funny side "" &gt;&gt; http://tr.im/l0gY !!",positive,97.17
+246,positive,Obama's speech was pretty awesome last night! http://bit.ly/IMXUM,positive,98.42
+247,positive,"Reading  ""Bill Clinton Fail - Obama Win?"" http://tinyurl.com/pcyxj7",neutral,87.28
+248,positive,Obama More Popular Than U.S. Among Arabs: Survey: President Barack Obama's popularity in leading Arab countries .. http://tinyurl.com/prlvqu,neutral,54.84
+249,positive,Obama's got JOKES!! haha just got to watch a bit of his after dinner speech from last night... i'm in love with mr. president ;),positive,98.61
+250,negative,LEbron james got in a car accident i guess..just heard it on evening news...wow i cant believe it..will he be ok ? http://twtad.com/69750,negative,77.42
+251,positive,is it me or is this the best the playoffs have been in years oh yea lebron and melo in the finals,positive,96.62
+252,positive,"@khalid0456 No, Lebron is the best",positive,82.37
+253,positive,@the_real_usher LeBron is cool.  I like his personality...he has good character.,positive,92.89
+254,positive,Watching Lebron highlights. Damn that niggas good,positive,87.68
+255,positive,@Lou911 Lebron is MURDERING shit.,negative,90.42
+256,positive,@uscsports21 LeBron is a monsta and he is only 24. SMH The world ain't ready.,negative,52.27
+257,positive,@cthagod when Lebron is done in the NBA he will probably be greater than Kobe. Like u said Kobe is good but there alot of 'good' players.,positive,49.4
+258,positive,KOBE IS GOOD BT LEBRON HAS MY VOTE,positive,87.83
+259,negative,Kobe is the best in the world not lebron .,positive,53.7
+260,positive,"@asherroth World Cup 2010 Access?? Damn, that's a good look!",positive,95.5
+261,positive,Just bought my tickets for the 2010 FIFA World Cup in South Africa. Its going to be a great summer. http://bit.ly/9GEZI,positive,97.66
+262,neutral,Share: Disruption...Fred Wilson's slides for his talk at Google HQ  http://bit.ly/Bo8PG,neutral,92.48
+263,negative,I have to go to Booz Allen Hamilton for a 2hr meeting :(  But then i get to go home :),neutral,40.44
+264,positive,"The great Indian tamasha truly will unfold from May 16, the result day for Indian General Election.",positive,79.69
+265,positive,"@crlane I have the Kindle2. I've seen pictures of the DX, but haven't seen it in person. I love my Kindle - I'm on it everyday.",positive,90.92
+266,positive,@criticalpath Such an awesome idea - the  continual learning program with a Kindle2  http://bit.ly/1ZLfF,positive,98.6
+267,neutral,ok.. do nothing.. just thinking about 40D,neutral,76.25
+268,positive,"@faithbabywear Ooooh, what model are you getting??? I have the 40D and LOVE LOVE LOVE LOVE it!",positive,98.77
+269,positive,The Times of India: The wonder that is India's election. http://bit.ly/p7u1H,positive,57.69
+270,positive,http://is.gd/ArUJ Good video from Google on using search options.,positive,96.07
+271,negative,@ambcharlesfield lol. Ah my skin is itchy :( damn lawnmowing.,negative,89.19
+272,negative,itchy back!! dont ya hate it!,negative,72.86
+273,positive,Stanford Charity Fashion Show a top draw http://cli.gs/NeNuAH,positive,61.59
+274,positive,Stanford University?s Facebook Profile is One of the Most Popular Official University Pages - http://tinyurl.com/p5b3fl,positive,92.38
+275,positive,Lyx is cool.,positive,87.17
+276,positive,SOOO DISSAPOiNTED THEY SENT DANNY GOKEY HOME... YOU STiLL ROCK ...DANNY ... MY HOMETOWN HERO !! YEAH MiLROCKEE!!,positive,95.53
+277,positive,"RT @PassionModel 'American Idol' fashion: Adam Lambert tones down, Danny Gokey cute ... http://cli.gs/7JWSHV",neutral,50.49
+278,positive,@dannygokey I love you DANNY GOKEY!! :),positive,98.63
+279,neutral,RT @justindavey: RT @tweetmeme GM OnStar now instantly sends accident location coordinates to 911 | GPS Obsessed http://bit.ly/16szL1,neutral,90.67
+280,negative,so tired. i didn't sleep well at all last night.,negative,89.77
+281,negative,Boarding plane for San Francisco in 1 hour; 6 hr flight. Blech.,negative,75.47
+282,negative,bonjour San Francisco. My back hurts from last night..,negative,85.98
+283,neutral,"breakers. in San Francisco, CA http://loopt.us/4v88Bw.t",neutral,78.76
+284,neutral,Heading to San Francisco,neutral,84.54
+285,positive,With my best girl for a few more hours in San francisco. Mmmmmfamily is wonderful!,positive,98.97
+286,negative,"F*** up big, or go home - AIG",negative,49.21
+287,positive,Went to see the Star Trek movie last night.  Very satisfying.,positive,98.41
+288,positive,"I can't wait, going to see star trek tonight!!",positive,99.03
+289,positive,Star Trek was as good as everyone said!!,positive,98.34
+290,positive,am loving new malcolm gladwell book - outliers,positive,98.61
+291,positive,I highly recommend Malcolm Gladwell's 'The Tipping Point.' My next audiobook will probably be one of his as well.,positive,97.69
+292,negative,Malcolm Gladwell is a genius at tricking people into not realizing he's a fucking idiot,negative,86.77
+293,negative,"@sportsguy33 hey no offense but malcolm gladwell is a pretenious, annoying cunt and he brings you down. cant read his shit",negative,94.78
+294,positive,RT @clashmore: http://bit.ly/SOYv7  Great article by Malcolm Gladwell.,positive,95.98
+295,positive,I seriously underestimated Malcolm Gladwell.  I want to meet this dude.,positive,47.1
+296,negative,i hate comcast right now. everything is down cable internet &amp; phone....ughh what am i to do,negative,95.94
+297,negative,Comcast sucks.,negative,92.37
+298,negative,The day I never have to deal with Comcast again will rank as one of the best days of my life.,positive,89.54
+299,negative,@Dommm did comcast fail again??,negative,82.03
+300,neutral,How do you use the twitter API?... http://bit.ly/4VBhH,neutral,94.58
+301,negative,curses the Twitter API limit,neutral,61.78
+302,negative,"Now I can see why Dave Winer screams about lack of Twitter API, its limitations and access throttles!",negative,74.27
+303,neutral,testing Twitter API,neutral,82.86
+304,negative,Arg. Twitter API is making me crazy.,negative,78.18
+305,neutral,Testing Twitter API. Remote Update,neutral,88.22
+306,positive,I'm really loving the new search site Wolfram/Alpha. Makes Google seem so ... quaint. http://www72.wolframalpha.com/,positive,98.18
+307,negative,"#wolfram Alpha SUCKS! Even for researchers the information provided is less than you can get from #google or #wikipedia, totally useless!",negative,94.75
+308,positive,Off to the NIKE factory!!!,positive,58.17
+309,positive,New nike muppet commercials are pretty cute. Why do we live together again?,positive,90.53
+310,neutral,New blog post: Nike Zoom LeBron Soldier 3 (III) - White / Black - Teal http://bit.ly/rouUS,neutral,88.2
+311,neutral,New blog post: Nike Trainer 1 http://bit.ly/394bp,neutral,81.39
+312,negative,@Fraggle312 oh those are awesome! i so wish they weren't owned by nike :(,positive,68.34
+313,positive,@tonyhawk http://twitpic.com/5c7uj - AWESOME!!! Seeing the show Friday at the Shoreline Amphitheatre. Never seen NIN before. Can't wait. ...,positive,98.8
+314,negative,"arhh, It's weka bug. = ="" and I spent almost two hours to find that out. crappy me",negative,93.57
+315,positive,"@mitzs hey bud :) np I do so love my 50D, although I'd love a 5D mkII more",positive,98.13
+316,positive,@jonduenas @robynlyn just got us a 50D for the office. :D,positive,93.82
+317,positive,Just picked up my new Canon 50D...it's beautiful!!  Prepare for some seriously awesome photography!,positive,98.84
+318,positive,Just got my new toy. Canon 50D. Love love love it!,positive,98.88
+319,positive,Learning about lambda calculus :),positive,93.89
+320,neutral,"#jobs #sittercity Help with taking care of sick child (East Palo Alto, CA) http://tinyurl.com/qwrr2m",neutral,86.92
+321,positive,I'm moving to East Palo Alto!,positive,50.41
+322,positive,@ atebits I just finished watching your Stanford iPhone Class session. I really appreciate it. You Rock!,positive,98.69
+323,positive,@jktweet Hi! Just saw your Stanford talk and really liked your advice. Just saying Hi from Singapore (yes the videos do get around),positive,97.33
+324,neutral,#MBA Admissions Tips Stanford GSB Deadlines and Essay Topics 2009-2010 http://tinyurl.com/pet4fd,neutral,94.18
+325,neutral,Ethics and nonprofits - http://bit.ly/qsXRp  #stanford #socialentrepreneurship,neutral,90.18
+326,positive,LAKERS tonight let's go!!!!,positive,94.17
+327,positive,Will the Lakers kick the Nuggets ass tonight?,neutral,58.64
+328,negative,Oooooooh... North Korea is in troubleeeee! http://bit.ly/19epAH,negative,85.39
+329,negative,Wat the heck is North Korea doing!!??!! They just conducted powerful nuclear tests! Follow the link: http://www.msnbc.msn.com/id/30921379,negative,85.45
+330,negative,Listening to Obama... Friggin North Korea...,negative,84.01
+331,negative,"I just realized we three monkeys in the white Obama.Biden,Pelosi . Sarah Palin 2012",neutral,56.18
+332,negative,@foxnews Pelosi should stay in China and never come back.,negative,79.74
+333,negative,Nancy Pelosi gave the worst commencement speech I've ever heard. Yes I'm still bitter about this,negative,95.97
+334,negative,ugh. the amount of times these stupid insects have bitten me. Grr..,negative,95.0
+335,positive,Prettiest insects EVER - Pink Katydids: http://bit.ly/2Upw2p,positive,96.55
+336,negative,Just got barraged by a horde of insects hungry for my kitchen light. So scary.,negative,91.08
+337,positive,Just had McDonalds for dinner. :D It was goooood. Big Mac Meal. ;),positive,99.08
+338,positive,AHH YES LOL IMA TELL MY HUBBY TO GO GET ME SUM MCDONALDS =],positive,95.5
+339,positive,Stopped to have lunch at McDonalds. Chicken Nuggetssss! :) yummmmmy.,positive,97.96
+340,positive,Could go for a lot of McDonalds. i mean A LOT.,positive,77.3
+341,positive,my exam went good. @HelloLeonie: your prayers worked (:,positive,97.59
+342,positive,"Only one exam left, and i am so happy for it :D",positive,99.08
+343,negative,Math review. Im going to fail the exam.,negative,89.83
+344,negative,Colin Powell rocked yesterday on CBS. Cheney needs to shut the hell up and go home.Powell is a man of Honor and served our country proudly,positive,53.91
+345,negative,obviously not siding with Cheney here: http://bit.ly/19j2d,neutral,60.49
+346,positive,Absolutely hilarious!!! from @mashable:  http://bit.ly/bccWt,positive,97.38
+347,positive,@mashable I never did thank you for including me in your Top 100 Twitter Authors! You Rock! (&amp; I New Wave :-D) http://bit.ly/EOrFV,positive,97.82
+348,neutral,Learning jQuery 1.3 Book Review - http://cfbloggers.org/?c=30629,neutral,83.89
+349,positive,RT @shrop: Awesome JQuery reference book for Coda! http://www.macpeeps.com/coda/ #webdesign,positive,96.94
+350,positive,I've been sending e-mails like crazy today to my contacts...does anyone have a contact at Goodby SIlverstein...I'd love to speak to them,positive,66.67
+351,neutral,Adobe CS4 commercial by Goodby Silverstein: http://bit.ly/1aikhF,neutral,78.9
+352,positive,"Goodby, Silverstein's new site... http://www.goodbysilverstein.com/ I enjoy it.",positive,98.11
+353,positive,Wow everyone at the Google I/O conference got free G2's with a month of unlimited service,positive,94.67
+354,positive,@vkerkez dood I got a free google android phone at the I/O conference. The G2!,positive,87.6
+355,positive,"@Orli the G2 is amazing btw, a HUGE improvement over the G1",positive,98.46
+356,positive,"HTML 5 Demos! Lots of great stuff to come! Yes, I'm excited. :) http://htmlfive.appspot.com #io2009 #googleio",positive,99.0
+357,positive,@googleio http://twitpic.com/62shi - Yay! Happy place! Place place!  I love Google!,positive,99.0
+358,positive,#GoogleIO | O3D - Bringing 3d graphics to the browser. Very nice tbh. Funfun.,positive,98.64
+359,positive,"Awesome viral marketing for ""Funny People"" http://www.nbc.com/yo-teach/",positive,97.19
+360,neutral,"Watching a programme about the life of Hitler, its only enhancing my geekiness of history.",neutral,46.2
+361,negative,saw night at the museum out of sheer desperation. who is funding these movies?,negative,73.06
+362,positive,Night At The Museum 2? Pretty furkin good.,positive,98.0
+363,positive,Watching Night at the Museum - giggling.,positive,72.71
+364,neutral,"@pambeeslyjenna Jenna, I went to see Night At The Museum 2 today and I was so surprised to see three cast members from The Office...",positive,76.93
+365,neutral,About to watch Night at the Museum with Ryan and Stacy,neutral,86.57
+366,neutral,"Getting ready to go watch Night at the Museum 2.  Dum dum, you give me gum gum!",positive,52.77
+367,negative,"Back from seeing 'Star Trek' and 'Night at the Museum.' 'Star Trek' was amazing, but 'Night at the Museum' was; eh.",positive,62.31
+368,positive,just watched night at the museum 2! so stinkin cute!,positive,98.34
+369,positive,"So, Night at the Museum 2 was AWESOME! Much better than part 1. Next weekend we'll see Up.",positive,98.95
+370,neutral,"I think I may have a new favorite restaurant. On our way to see ""Night at the Museum 2”.",positive,95.72
+371,neutral,"UP! was sold out, so i'm seeing Night At The Museum 2. I'm __ years old.",neutral,48.3
+372,positive,saw the new Night at the Museum and i loved it. Next is to go see UP in 3D,positive,98.59
+373,negative,It is a shame about GM. What if they are forced to make only cars the White House THINKS will sell? What do you think?,negative,88.01
+374,negative,"As u may have noticed, not too happy about the GM situation, nor AIG, Lehman, et al",negative,72.41
+375,neutral,Obama: Nationalization of GM to be short-term   (AP) http://tinyurl.com/md347r,neutral,84.48
+376,negative,@Pittstock $GM good riddance.  sad though.,negative,80.82
+377,negative,"I Will NEVER Buy a Government Motors Vehicle: Until just recently, I drove GM cars. Since 1988, when I bought a .. http://tinyurl.com/lulsw8",negative,55.98
+378,negative,Having the old Coca-Cola guy on the GM board is stupid has heck! #tcot #ala,negative,91.0
+379,negative,#RantsAndRaves The worst thing about GM (concord / pleasant hill / martinez): is the fucking UAW. ..   http://buzzup.com/4ueb,negative,94.41
+380,negative,"Give a man a fish, u feed him for the day. Teach him to fish, u feed him for life. Buy him GM, and u F**K him over for good.",negative,50.34
+381,negative,"The more I hear about this GM thing the more angry I get. Billions wasted, more bullshit. All for something like 40k employees and all the..",negative,94.72
+382,negative,@QuantTrader i own a GM car and it is junk as far as quality compared to a honda,negative,83.07
+383,negative,sad day...bankrupt GM,negative,90.4
+384,negative,is upset about the whole GM thing. life as i know it is so screwed up,negative,94.3
+385,negative,whoever is running time warner needs to be repeatedly raped by a rhino so they understand the consequences of putting out shitty cable svcs,negative,92.39
+386,neutral,"Time Warner CEO hints at online fees for magazines      (AP) - Read from Mountain View,United States. Views 16209 http://bit.ly/UdFCH",neutral,95.19
+387,negative,#WFTB Joining a bit late. My connection was down (boo time warner),negative,79.82
+388,negative,Cox or Time Warner?  Cox is cheaper and gets a B on dslreports.  TW is more expensive and gets a C.,neutral,75.01
+389,negative,i am furious with time warner and their phone promotions!,negative,94.28
+390,negative,Just got home from chick-fil-a with the boys. Damn my internets down =( stupid time warner,negative,93.46
+391,negative,could time-warner cable suck more?  NO.,negative,93.26
+392,negative,Pissed at Time Warner for causin me to have slow internet problems,negative,94.43
+393,negative,"@sportsguy33 Ummm, having some Time Warner problems?",neutral,61.35
+394,negative,You guys see this?  Why does Time Warner have to suck so much ass?  Really wish I could get U-Verse at my apartment. http://bit.ly/s594j,negative,92.87
+395,negative,"RT @sportsguy33 The upside to Time Warner: unhelpful phone operators   superslow on-site service. Crap, that's not an upside.",negative,86.5
+396,negative,"RT @sportsguy33: New Time Warner slogan: ""Time Warner, where we make you long for the days before cable.""",positive,67.02
+397,negative,"confirmed: it's Time Warner's fault, not Facebook's, that fb is taking about 3 minutes to load. so tempted to switch to verizon =/",negative,88.6
+398,negative,@sportsguy33 Time Warner = epic fail,negative,69.74
+399,neutral,Lawson to head Newedge Hong Kong http://bit.ly/xLQSD #business #china,neutral,93.61
+400,neutral,Weird Piano Guitar House in China! http://u2s.me/72i8,neutral,83.65
+401,neutral,Send us your GM/Chevy photos http://tinyurl.com/luzkpq,neutral,80.32
+402,negative,I know. How sad is that?  RT @caseymercier: 1st day of hurricane season. That's less scarey than govt taking over GM.,negative,81.57
+403,negative,"GM files Bankruptcy, not a good sign...",negative,89.02
+404,positive,yankees won mets lost. its a good day.,positive,94.88
+405,positive,My dentist appt today was actually quite enjoyable.,positive,97.94
+406,negative,I hate the effing dentist.,negative,93.48
+407,neutral,@stevemoakler i had a dentist appt this morning and had the same conversation!,neutral,68.95
+408,negative,@kirstiealley I hate going to the dentist.. !!!,negative,90.52
+409,negative,i hate the dentist....who invented them anyways?,negative,95.06
+410,negative,this dentist's office is cold :/,negative,90.06
+411,neutral,Check this video out -- David After Dentist http://bit.ly/47aW2,neutral,69.53
+412,neutral,First dentist appointment [in years] on Wednesday possibly.,neutral,84.21
+413,neutral,Tom Shanahan's latest column on SDSU and its NCAA Baseball Regional appearance: http://ow.ly/axhu,neutral,95.85
+414,neutral,BaseballAmerica.com: Blog: Baseball America Prospects Blog ? Blog ... http://bit.ly/EtT8a,neutral,96.8
+415,neutral,Portland city politics may undo baseball park http://tinyurl.com/lpjquj,neutral,62.93
+416,neutral,"RT @WaterSISWEB: CA Merced's water bottled by Safeway, resold at a profit: Wells are drying up across the county http://tinyurl.com/mb573s",neutral,74.58
+417,neutral,dropped her broccoli walking home from safeway! ;( so depressed,negative,92.31
+418,neutral,@ronjon we don't have Safeway.,neutral,52.49
+419,positive,Just applied at Safeway!(: Yeeeee!,positive,95.09
+420,negative,@ Safeway. Place is a nightmare right now. Bumming.,negative,94.32
+421,neutral,at safeway with dad,neutral,80.35
+422,negative,"HATE safeway select green tea icecream! bought two cartons, what a waste of money.  &gt;_&lt;",negative,95.65
+423,neutral,"Safeway with Marvin, Janelle, and Auntie Lhu",neutral,93.24
+424,neutral,Safeway offering mobile coupons http://bit.ly/ONH7w,neutral,69.81
+425,neutral,"Phillies Driving in the Cadillac with the Top Down in Cali, Win 5-3 - http://tinyurl.com/nzcjqa",neutral,71.92
+426,neutral,Saved money by opting for grocery store trip and stocking food in hotel room fridge vs. eating out every night while out of town.,neutral,69.18
+427,neutral,"Lounging around, eating Taco Bell and watching NCIS before work tonight. Need help staying awake.",neutral,67.6
+428,neutral,eating breakfast and then school,neutral,82.04
+429,neutral,still hungry after eating....,neutral,77.01
+430,neutral,10 tips for healthy eating ? ResultsBy Fitness Blog :: Fitness ... http://bit.ly/62gFn,neutral,70.55
+431,neutral,"with the boyfriend, eating a quesadilla",neutral,61.49
+432,neutral,"Eating dinner. Meat, chips, and risotto.",neutral,62.17
+433,neutral,got a new pair of nike shoes. pics up later,positive,72.44
+434,neutral,"Nike SB Blazer High ""ACG"" Custom - Brad Douglas - http://timesurl.at/45a448",neutral,92.59
+435,positive,Nike rocks. I'm super grateful for what I've done with them :) &amp; the European Division of NIKE is BEYOND! @whitSTYLES @muchasmuertes,positive,98.63
+436,neutral,Nike Air Yeezy Khaki/Pink Colorway Release - http://shar.es/bjfN,neutral,84.27
+437,positive,@evelynbyrne have you tried Nike  ? V. addictive.,positive,79.32
+438,neutral,@erickoston That looks an awful lot like one of Nike's private jets....I'm just sayin....,neutral,51.36
+439,positive,The Nike Training Club (beta) iPhone app looks very interesting.,positive,95.93
+440,negative,argghhhh why won't  my jquery appear in safari bad safari !!!,negative,93.55
+441,neutral,DevSnippets : jQuery Tools - Javascript UI Components for the Web... http://inblogs.org/go/hfuqt,neutral,90.04
+442,neutral,"all about Ajax,jquery ,css ,JavaScript and more... (many examples) http://ajaxian.com/",neutral,74.23
+443,positive,"I'm ready to drop the pretenses, I am forever in love with jQuery, and I want to marry it. Sorry ladies, this nerd is jquery.spokenFor.js",positive,92.69
+444,neutral,"This is cold.. I was looking at google's chart//visualization API and found this jQuery ""wrapper"" for the API...  http://tinyurl.com/mq52bq",negative,79.05
+445,neutral,I spent most of my day reading a jQuery book. Now to start drinking some delirium tremens.,neutral,66.8
+446,neutral,jquery Selectors http://codylindley.com/jqueryselectors/,neutral,92.32
+447,neutral,How to implement a news ticker with jQuery and ten lines of code http://bit.ly/CZnFJ,neutral,84.06
+448,neutral,What's Buffet Doing? Warren Buffett Kicks Butt In Battle of the Boots: Posted By:Alex Crippe.. http://bit.ly/AUIzO,neutral,92.45
+449,positive,"SUPER INVESTORS: A great weekend read here from Warren Buffet. Oldie, but a goodie. http://tinyurl.com/oqxgga",positive,97.84
+450,neutral,I'm truly braindead.  I couldn't come up with Warren Buffet's name to save my soul,negative,86.27
+451,positive,"reading Michael Palin book, The Python Years...great book. I also recommend Warren Buffet &amp; Nelson Mandela's bio",positive,96.12
+452,positive,"I mean, I'm down with Notre Dame if I have to.  It's a good school, I'd be closer to Dan, I'd enjoy it.",positive,91.54
+453,negative,"I can't watch TV without a Tivo.  And after all these years, the Time/Warner DVR  STILL sucks. http://www.davehitt.com/march03/twdvr.html",negative,91.87
+454,positive,I'd say some sports writers are idiots for saying Roger Federer is one of the best ever in Tennis.  Roger Federer is THE best ever in Tennis,positive,60.21
+455,negative,I still love my Kindle2 but reading The New York Times on it does not feel natural. I miss the Bloomingdale ads.,negative,41.0
+456,positive,I love my Kindle2. No more stacks of books to trip over on the way to the loo.,positive,89.7
+457,negative,"Although today's keynote rocked, for every great announcement, AT&amp;T shit on us just a little bit more.",negative,78.86
+458,negative,"@sheridanmarfil - its not so much my obsession with cell phones, but the iphone!  i'm a slave to at&amp;t forever because of it. :)",positive,81.95
+459,neutral,@freitasm oh I see. I thought AT&amp;T were 900MHz WCDMA?,neutral,84.34
+460,neutral,@Plip Where did you read about tethering support Phil?  Just AT&amp;T or will O2 be joining in?,neutral,94.7
+461,negative,Fuzzball is more fun than AT&amp;T ;P http://fuzz-ball.com/twitter,positive,94.71
+462,negative,"Today is a good day to dislike AT&amp;T. Vote out of office indeed, @danielpunkass",negative,77.12
+463,positive,GOT MY WAVE SANDBOX INVITE! Extra excited! Too bad I have class now... but I'll play with it soon enough! #io2009 #wave,positive,96.36
+464,negative,looks like summize has gone down. too many tweets from WWDC perhaps?,negative,65.93
+465,neutral,I hope the girl at work  buys my Kindle2,neutral,51.91
+466,neutral,Missed this insight-filled May column: One smart guy looking closely at why he's impressed with Kindle2 http://bit.ly/i0peY @wroush,positive,57.31
+467,positive,"@sklososky Thanks so much!!! ...from one of your *very* happy Kindle2 winners ; ) I was so surprised, fabulous. Thank you! Best, Kathleen",positive,99.0
+468,negative,Man I kinda dislike Apple right now. Case in point: the iPhone 3GS. Wish there was a video recorder app. Please?? http://bit.ly/DZm1T,negative,94.16
+469,positive,@cwong08 I have a Kindle2 (&amp; Sony PRS-500). Like it! Physical device feels good. Font is nice. Pg turns are snappy enuf. UI a little klunky.,positive,94.24
+470,positive,"The #Kindle2 seems the best eReader, but will it work in the UK and where can I get one?",positive,90.71
+471,positive,"I have a google addiction. Thank you for pointing that out, @annamartin123. Hahaha.",positive,79.55
+472,neutral,@ruby_gem My primary debit card is Visa Electron.,neutral,84.68
+473,neutral,Off to the bank to get my new visa platinum card,neutral,74.97
+474,negative,"dearest @google, you rich bastards! the VISA card you sent me doesn't work. why screw a little guy like me?",negative,96.14
+475,neutral,has a date with bobby flay and gut fieri from food network,neutral,91.62
+476,positive,Excited about seeing Bobby Flay and Guy Fieri tomorrow at the Great American Food &amp; Music Fest!,positive,98.62
+477,positive,Gonna go see Bobby Flay 2moro at Shoreline. Eat and drink. Gonna be good.,positive,96.01
+478,positive,can't wait for the great american food and music festival at shoreline tomorrow.  mmm...katz pastrami and bobby flay. yes please.,positive,99.05
+479,positive,"My dad was in NY for a day, we ate at MESA grill last night and met Bobby Flay. So much fun, except I completely lost my voice today.",positive,82.93
+480,negative,Fighting with LaTex. Again...,neutral,72.99
+481,negative,@Iheartseverus we love you too and don't want you to die!!!!!!  Latex = the devil,positive,47.71
+482,negative,"7 hours. 7 hours of inkscape crashing, normally solid as a rock. 7 hours of LaTeX complaining at the slightest thing. I can't take any more.",negative,92.0
+483,neutral,How to Track Iran with Social Media: http://bit.ly/2BoqU,neutral,92.7
+484,negative,Shit's hitting the fan in Iran...craziness indeed #iranelection,negative,90.46
+485,negative,Monday already. Iran may implode. Kitchen is a disaster. @annagoss seems happy. @sebulous had a nice weekend and @goldpanda is great. whoop.,negative,50.43
+486,neutral,Twitter Stock buzz: $AAPL $ES_F $SPY $SPX $PALM  (updated: 12:00 PM),neutral,80.46
+487,positive,getting ready to test out some burger receipes this weekend. Bobby Flay has some great receipes to try. Thanks Bobby.,positive,95.77
+488,neutral,@johncmayer is Bobby Flay joining you?,neutral,89.07
+489,positive,i lam so in love with Bobby Flay... he is my favorite. RT @terrysimpson: @bflay you need a place in Phoenix. We have great peppers here!,positive,97.99
+490,negative,"I just created my first LaTeX file from scratch. That didn't work out very well. (See @amandabittner , it's a great time waster)",negative,57.25
+491,positive,using Linux and loving it - so much nicer than windows... Looking forward to using the wysiwyg latex editor!,positive,98.34
+492,positive,"After using LaTeX a lot, any other typeset mathematics just looks hideous.",negative,89.29
+493,neutral,Ask Programming: LaTeX or InDesign?: submitted by calcio1 [link] [1 comment] http://tinyurl.com/myfmf7,neutral,91.34
+494,negative,"On that note, I hate Word. I hate Pages. I hate LaTeX. There, I said it. I hate LaTeX. All you TEXN3RDS can come kill me now.",negative,94.08
+495,positive,Ahhh... back in a *real* text editing environment. I &lt;3 LaTeX.,positive,96.6
+496,negative,"Trouble in Iran, I see. Hmm. Iran. Iran so far away. #flockofseagullsweregeopoliticallycorrect",negative,64.28
+497,negative,Reading the tweets coming out of Iran... The whole thing is terrifying and incredibly sad...,negative,92.51
