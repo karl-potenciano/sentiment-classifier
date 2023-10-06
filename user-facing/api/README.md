@@ -1,7 +1,7 @@
 
 # SAIL - Sentiment Classifier
 
-This Folder contains the c
+This Folder contains the necessary scripts to run predictions both via command and and via API.
 
 ## Getting Started
 ### Set up 
@@ -54,7 +54,7 @@ flask --app sentiment_prediction_api run --host <host> --port <port>
 ```
 
 #### Flask API Individual Prediction
-An individual prediction endpoint can be found on `GET predict_sentiment/individual`. Sample Request and response can be found [here](Sentiment Prediction API.postman_collection.json)
+An individual prediction endpoint can be found on `GET predict_sentiment/individual`. Sample Request and response can be found [here](https://github.com/karl-potenciano/sentiment-classifier/edit/main/user-facing/api/Sentiment Prediction API.postman_collection.json)
 
 #### Flask API DataFrame Prediction
-An individual prediction endpoint can be found on `POST predict_sentiment/dataframe`. Sample Request and response can be found [here](Sentiment Prediction API.postman_collection.json)
+An individual prediction endpoint can be found on `POST predict_sentiment/dataframe`. Sample Request and response can be found [here](https://github.com/karl-potenciano/sentiment-classifier/edit/main/user-facing/api/Sentiment Prediction API.postman_collection.json)
