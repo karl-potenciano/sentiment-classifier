@@ -1,7 +1,7 @@
 
 # SAIL - Sentiment Classifier
 
-This Folder contains the necessary scripts to run predictions both via command and and via API.
+This Folder contains the necessary scripts to run predictions both via command and via API.
 
 ## Getting Started
 ### Set up 
